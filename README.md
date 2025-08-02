@@ -1,23 +1,78 @@
-# 👋 Hi there, I'm MD Rayhan Hossain (aka `codexrayhan`)!
+<!-- Top Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Rayhan+Hossain;A+Passionate+CSE+Student+%F0%9F%92%BB;I+Love+Learning+and+Building+Cool+Stuff!;Welcome+to+My+GitHub+Profile!+%F0%9F%91%80" alt="Typing SVG" />
+</p>
 
-🎓 I’m a Computer Science student from Bangladesh, passionate about:
-- 💻 Programming (C/C++, Java)
-- 📚 Data Structures & Algorithms
-- 🌐 Web development (learning phase)
-- 🤖 Exploring AI, Machine Learning & Robotics (beginner level)
+---
 
-🔭 Currently learning:
-- Front-end Web Development (HTML, CSS, JS)
-- Git & GitHub for version control
+## 🌟 About Me
 
-📌 My goals:
-- Contribute to open-source projects
-- Build a strong portfolio of personal & academic projects
-- Learn something new every day!
+🎓 **CSE Undergraduate** | 💻 Passionate Learner | 🚀 Dream-Focused Developer  
+📍 From Dhaka, Bangladesh 🇧🇩  
+💡 I love exploring new technologies, building useful tools, and solving real-life problems with code.  
+📚 I have experience in **C, C++, Java, Python**, and I’m deeply into **Data Structures & Algorithms**.  
+🌱 Currently learning **Web Development** and **Machine Learning**
 
-📫 How to reach me:
-- Email:hmdrayhan533@gmail.com 
-- LinkedIn: [https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/]
-- Portfolio: (coming soon!)
+---
 
-> 🚧 This profile is under construction as I grow and learn — feel free to explore and connect!
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode,/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codexrayhan&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexrayhan&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codexrayhan&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:hmdrayhan533@gmail.com"><img src="https://img.shields.io/badge/Email-%F0%9F%93%A7hmdrayhan533@gmail.com-red?style=for-the-badge"/></a>
+  <a href="[https://github.com/codexrayhan](https://github.com/codexrayhan)"><img src="https://img.shields.io/badge/GitHub-%F0%9F%92%BB%20codexrayhan-181717?style=for-the-badge&logo=github"/></a>
+  <a href="[https://www.linkedin.com/in/md-rayhan-hossain](https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%F0%9F%92%AC%20md--rayhan--hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 What I Know
+
+- ✅ Programming Languages: `C`, `C++`, `Java`, `Python`
+- ✅ Concepts: `OOP`, `DSA`, `Problem Solving`, `Basic DB`
+- ✅ Tools: `Git`, `GitHub`, `VS Code`
+
+---
+
+## 🎯 Currently Learning
+
+- 🌐 Full Stack Web Development
+- 🧠 Machine Learning & AI
+- 🛠️ Real-World Projects & Open Source Collaboration
+
+---
+
+## 💬 Favorite Quote
+
+> "The future belongs to those who believe in the beauty of their dreams."  
+> — *Eleanor Roosevelt*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:1e90ff&height=100&section=footer&text=Thank%20You%20for%20Visiting!%20🚀&fontSize=25&fontColor=ffffff"/>
+</p>
