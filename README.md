@@ -18,7 +18,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode,/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
 </p>
 
 ---
@@ -44,21 +44,23 @@
 
 <p align="center">
   <a href="mailto:hmdrayhan533@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rayhan.cse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-hmdrayhan533@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://github.com/codexrayhan](https://github.com/codexrayhan)">
+  <a href="https://github.com/codexrayhan">
     <img src="https://img.shields.io/badge/GitHub-codexrayhan-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="[https://www.linkedin.com/in/md-rayhan-hossain](https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/)">
+  <a href="https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/">
     <img src="https://img.shields.io/badge/LinkedIn-md--rayhan--hossain-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
 
 ## 🧠 What I Know
 
 - ✅ Programming Languages: `C`, `C++`, `Java`, `Python`
 - ✅ Concepts: `OOP`, `DSA`, `Problem Solving`, `Basic DB`
-- ✅ Tools: `Git`, `GitHub`, `VS Code`
+- ✅ Tools: `Git`, `GitHub`, `VS Code`, `Linux`
 
 ---
 
@@ -77,6 +79,7 @@
 
 ---
 
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:1e90ff&height=100&section=footer&text=Thank%20You%20for%20Visiting!%20🚀&fontSize=25&fontColor=ffffff"/>
 </p>
