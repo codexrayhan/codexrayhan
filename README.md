@@ -43,12 +43,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:hmdrayhan533@gmail.com"><img src="https://img.shields.io/badge/Email-%F0%9F%93%A7hmdrayhan533@gmail.com-red?style=for-the-badge"/></a>
-  <a href="[https://github.com/codexrayhan](https://github.com/codexrayhan)"><img src="https://img.shields.io/badge/GitHub-%F0%9F%92%BB%20codexrayhan-181717?style=for-the-badge&logo=github"/></a>
-  <a href="[https://www.linkedin.com/in/md-rayhan-hossain](https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%F0%9F%92%AC%20md--rayhan--hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hmdrayhan533@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rayhan.cse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="[https://github.com/codexrayhan](https://github.com/codexrayhan)">
+    <img src="https://img.shields.io/badge/GitHub-codexrayhan-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/md-rayhan-hossain](https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/)">
+    <img src="https://img.shields.io/badge/LinkedIn-md--rayhan--hossain-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
-
----
 
 ## 🧠 What I Know
 
