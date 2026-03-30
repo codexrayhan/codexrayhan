@@ -74,8 +74,7 @@
 
 ## 💬 Favorite Quote
 
-> "The future belongs to those who believe in the beauty of their dreams."  
-> — *Eleanor Roosevelt*
+"A single person’s courage and effort can transform generations—so try to be that change."
 
 ---
 
