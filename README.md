@@ -7,10 +7,10 @@
 
 ## 🌟 About Me
 
-🎓 **CSE Undergraduate** | 💻 Passionate Learner | 🚀 Dream-Focused Developer  
-📍 From Dhaka, Bangladesh 🇧🇩  
-💡 I love exploring new technologies, building useful tools, and solving real-life problems with code.  
-📚 I have experience in **C, C++, Java, Python**, and I’m deeply into **Data Structures & Algorithms**.  
+🎓 **CSE Undergraduate** | 💻 Passionate Learner | 🚀 Dream-Focused Developer
+📍 From Dhaka, Bangladesh 🇧🇩
+💡 I love exploring new technologies, building useful tools, and solving real-life problems with code.
+📚 I have experience in **C, C++, Java, Python**, and I'm deeply into **Data Structures & Algorithms**.
 🌱 Currently learning **Web Development** and **Machine Learning**
 
 ---
@@ -20,6 +20,20 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
 </p>
+
+---
+
+## 🧠 What I Know
+
+- ✅ **Languages:** `C` `C++` `Java` `Python` `HTML` `CSS` `JavaScript`
+- ✅ **Concepts:** `OOP` `DSA` `Problem Solving` `Basic DB`
+- ✅ **Tools:** `Git` `GitHub` `VS Code` `Linux`
+
+## 🎯 Currently Learning
+
+- 🌐 Full Stack Web Development
+- 🧠 Machine Learning & AI
+- 🛠️ Real-World Projects & Open Source Collaboration
 
 ---
 
@@ -54,6 +68,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexrayhan&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -76,27 +92,20 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
----
-
-## 🧠 What I Know
-
-- ✅ Programming Languages: `C`, `C++`, `Java`, `Python`
-- ✅ Concepts: `OOP`, `DSA`, `Problem Solving`, `Basic DB`
-- ✅ Tools: `Git`, `GitHub`, `VS Code`, `Linux`
-
----
-
-## 🎯 Currently Learning
-
-- 🌐 Full Stack Web Development
-- 🧠 Machine Learning & AI
-- 🛠️ Real-World Projects & Open Source Collaboration
 
 ---
 
 ## 💬 Favorite Quote
 
-"A single person’s courage and effort can transform generations—so try to be that change."
+> *"A single person's courage and effort can transform generations — so try to be that change."*
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=codexrayhan&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</p>
 
 ---
 
