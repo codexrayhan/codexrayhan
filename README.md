@@ -1,87 +1,94 @@
-<!--
-  ██████╗ ██████╗ ██████╗ ███████╗██╗  ██╗
- ██╔════╝██╔═══██╗██╔══██╗██╔════╝╚██╗██╔╝
- ██║     ██║   ██║██║  ██║█████╗   ╚███╔╝
- ██║     ██║   ██║██║  ██║██╔══╝   ██╔██╗
- ╚██████╗╚██████╔╝██████╔╝███████╗██╔╝ ██╗
-  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
--->
-
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=System+booted.+Welcome%2C+visitor.;Still+exploring+the+codeverse...;Building+things.+Breaking+things.;Learning+everything.+Fearing+nothing.)](https://git.io/typing-svg)
-
-</div>
+<!-- Top Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Rayhan+Hossain;A+Passionate+CSE+Student+%F0%9F%92%BB;I+Love+Learning+and+Building+Cool+Stuff!;Welcome+to+My+GitHub+Profile!+%F0%9F%91%80" alt="Typing SVG" />
+</p>
 
 ---
 
-```bash
-▶ whoami
-```
----
+## 🌟 About Me
 
-```bash
-▶ skills --list
-```
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React_(learning)-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js_(soon)-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+🎓 **CSE Undergraduate** | 💻 Passionate Learner | 🚀 Dream-Focused Developer  
+📍 From Dhaka, Bangladesh 🇧🇩  
+💡 I love exploring new technologies, building useful tools, and solving real-life problems with code.  
+📚 I have experience in **C, C++, Java, Python**, and I’m deeply into **Data Structures & Algorithms**.  
+🌱 Currently learning **Web Development** and **Machine Learning**
 
 ---
 
-```bash
-▶ ls projects/
-```
+## 🧰 Tech Toolbox
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🚀 `project-one` | Your cool project | HTML/CSS/JS | `[live]` |
-| 🔧 `project-two` | Another project | Python | `[building]` |
-| 🌱 `project-three` | Learning project | React | `[exploring]` |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
+</p>
 
 ---
 
-```bash
-▶ git log --journey
-```
----
+## 📊 GitHub Stats
 
-```bash
-▶ cat stats.log
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codexrayhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codexrayhan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
-![GitHub Streak](https://streak-stats.demolab.com?user=codexrayhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codexrayhan&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexrayhan&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
+</p>
 
 ---
 
-```bash
-▶ ping --connect
-```
-<div align="center">
+## 🔥 GitHub Streak
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codexrayhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmdrayhan533@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rayhanhossain.candimal)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codexrayhan&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=codexrayhan&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</div>
+## 🌐 Connect With Me
 
-<div align="center">
-  <sub>▶ waiting for next command... <kbd>█</kbd></sub>
-</div>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:hmdrayhan533@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/codexrayhan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/rayhanhossain.candimal">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/ek_du_tin">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/newbie_rayhan/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+---
+
+## 🧠 What I Know
+
+- ✅ Programming Languages: `C`, `C++`, `Java`, `Python`
+- ✅ Concepts: `OOP`, `DSA`, `Problem Solving`, `Basic DB`
+- ✅ Tools: `Git`, `GitHub`, `VS Code`, `Linux`
+
+---
+
+## 🎯 Currently Learning
+
+- 🌐 Full Stack Web Development
+- 🧠 Machine Learning & AI
+- 🛠️ Real-World Projects & Open Source Collaboration
+
+---
+
+## 💬 Favorite Quote
+
+"A single person’s courage and effort can transform generations—so try to be that change."
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00bfff,100:1e90ff&height=100&section=footer&text=Thank%20You%20for%20Visiting!%20🚀&fontSize=25&fontColor=ffffff"/>
+</p>
