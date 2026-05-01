@@ -40,13 +40,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codexrayhan&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexrayhan&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codexrayhan&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexrayhan&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" width="36%" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=codexrayhan&theme=tokyonight&border_radius=10&hide_border=false" />
-</p>
 ---
 
 ## 🔥 GitHub Streak
