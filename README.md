@@ -44,16 +44,16 @@
 
 <p align="center">
   <a href="mailto:hmdrayhan533@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hmdrayhan533@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  
   </a>
   <a href="https://github.com/codexrayhan">
-    <img src="https://img.shields.io/badge/GitHub-codexrayhan-black?style=for-the-badge&logo=github"/>
+   
   </a>
   <a href="https://www.linkedin.com/in/md-rayhan-hossain-6a2366366/">
-    <img src="https://img.shields.io/badge/LinkedIn-md--rayhan--hossain-blue?style=for-the-badge&logo=linkedin"/>
+    
   </a>
   <a href="https://www.facebook.com/rayhanhossain.candimal">
-    <img src="https://img.shields.io/badge/Facebook-Md_Rayhan_Hossain-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    
   </a>
 </p>
 
