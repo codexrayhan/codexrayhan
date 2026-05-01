@@ -39,8 +39,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codexrayhan&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexrayhan&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&hide_border=false" />
