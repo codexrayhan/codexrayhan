@@ -94,9 +94,13 @@
 
 ## 💬 Favorite Quote
 
-> *"A single person's courage and effort can transform generations — so try to be that change."*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&text=%22A+single+person%27s+courage+and+effort&fontSize=20&fontColor=00BFFF&animation=fadeIn"/>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=100&text=can+transform+generations+%E2%80%94+so+try+to+be+that+change.+%F0%9F%94%A5&fontSize=20&fontColor=FF69B4&animation=fadeIn"/>
+</p>
 
 ## 👀 Profile Views
 
